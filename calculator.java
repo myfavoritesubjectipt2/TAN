@@ -15,7 +15,12 @@ public class calculator{
 public class calculator{
         public static int multiply(int a, int b){
             return a*b;
-        }
+    }
 
+public class calculator{
+        public static int divide(int a, int b){
+                return a/b;
+    }
+    
 }
 }
